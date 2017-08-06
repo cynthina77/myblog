@@ -26,7 +26,7 @@ SECRET_KEY = 'cvr4crzil2(76@)upjf4$0kczou)u(x8%r4gddqxth4&nj2a9g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'gentle-bastion-88296O.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'gentle-bastion-88296.herokuapp.com']
 
 
 # Application definition
